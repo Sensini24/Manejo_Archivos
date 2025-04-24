@@ -1,0 +1,14 @@
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\bin\Debug\net8.0\Manejo_Archivos.exe
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\bin\Debug\net8.0\Manejo_Archivos.deps.json
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\bin\Debug\net8.0\Manejo_Archivos.runtimeconfig.json
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\bin\Debug\net8.0\Manejo_Archivos.dll
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\bin\Debug\net8.0\Manejo_Archivos.pdb
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\Manejo_Archivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\Manejo_Archivos.AssemblyInfoInputs.cache
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\Manejo_Archivos.AssemblyInfo.cs
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\Manejo_Archivos.csproj.CoreCompileInputs.cache
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\Manejo_Archivos.dll
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\refint\Manejo_Archivos.dll
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\Manejo_Archivos.pdb
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\Manejo_Archivos.genruntimeconfig.cache
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\ref\Manejo_Archivos.dll
