@@ -1,0 +1,15 @@
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/bin/Debug/net9.0/Manejo_Archivos
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/bin/Debug/net9.0/Manejo_Archivos.deps.json
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/bin/Debug/net9.0/Manejo_Archivos.runtimeconfig.json
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/bin/Debug/net9.0/Manejo_Archivos.dll
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/bin/Debug/net9.0/Manejo_Archivos.pdb
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/obj/Debug/net9.0/Manejo_Archivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/obj/Debug/net9.0/Manejo_Archivos.AssemblyInfoInputs.cache
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/obj/Debug/net9.0/Manejo_Archivos.AssemblyInfo.cs
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/obj/Debug/net9.0/Manejo_Archivos.csproj.CoreCompileInputs.cache
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/obj/Debug/net9.0/Manejo_Archivos.sourcelink.json
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/obj/Debug/net9.0/Manejo_Archivos.dll
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/obj/Debug/net9.0/refint/Manejo_Archivos.dll
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/obj/Debug/net9.0/Manejo_Archivos.pdb
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/obj/Debug/net9.0/Manejo_Archivos.genruntimeconfig.cache
+/home/brandon/Documentos/Proyectos VSCode/Manejo_Archivos/obj/Debug/net9.0/ref/Manejo_Archivos.dll

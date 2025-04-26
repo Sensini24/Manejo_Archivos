@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manejo_Archivos", "Manejo_Archivos.csproj", "{5E24155D-9CE7-FACC-7D3F-50D47069D888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E24155D-9CE7-FACC-7D3F-50D47069D888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E24155D-9CE7-FACC-7D3F-50D47069D888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E24155D-9CE7-FACC-7D3F-50D47069D888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E24155D-9CE7-FACC-7D3F-50D47069D888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3066BEBD-8E1B-4E9A-BBE3-7F4BBE2C2D56}
+	EndGlobalSection
+EndGlobal
