@@ -12,3 +12,4 @@ D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\refint\Manejo_A
 D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\Manejo_Archivos.pdb
 D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\Manejo_Archivos.genruntimeconfig.cache
 D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\ref\Manejo_Archivos.dll
+D:\Proyectos c#\Manejo_Archivos\Manejo_Archivos\obj\Debug\net8.0\Manejo_Archivos.sourcelink.json
